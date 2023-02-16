@@ -6,6 +6,7 @@ public class PushCodeGIT {
 		// TODO Auto-generated method stub
 		
 		System.out.print("Hi Kapil");
+		System.out.print("This is sample test");
 
 	}
 
