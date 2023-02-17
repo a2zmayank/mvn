@@ -10,6 +10,7 @@ public class PushCodeGIT {
 		System.out.print("new changes done and need to uploan on the GIT");
 		System.out.print("new changes done and need to uploan on the GIT-1");
 		System.out.print("new changes done and need to uploan on the GIT-2");
+		System.out.print("new changes done and need to uploan on the GIT-3");
 
 	}
 
