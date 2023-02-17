@@ -2,9 +2,6 @@ package pages;
 
 import java.io.IOException;
 
-import org.openqa.selenium.By;
-
-import factory.BrowserFactory;
 import factory.ElementFactory;
 
 public class LoginPage {
